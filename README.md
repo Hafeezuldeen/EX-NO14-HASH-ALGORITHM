@@ -28,8 +28,9 @@ To implement HASH ALGORITHM
 
 ## Program:
 ```
-NAME: HARITHA RAMESH
-REG NUM: 212223100011
+NAME: HAFEEZUL DEEN S
+REG NUM: 212223220028
+
 
 #include <stdio.h>
 #include <string.h>
